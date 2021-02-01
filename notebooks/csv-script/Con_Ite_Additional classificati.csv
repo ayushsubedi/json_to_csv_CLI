@@ -1,0 +1,3 @@
+Release ID,Contracts:Contract ID,Contracts:Items contracted:ID,Contracts:Items contracted:Additional classifications:ID,Contracts:Items contracted:Additional classifications:Scheme,Contracts:Items contracted:Additional classifications:Description,Contracts:Items contracted:Additional classifications:URI
+ocds-213czf-000-00001-05-contract,ocds-213czf-000-00001-contract-01,1.0,45233162-2,CPV,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html
+ocds-213czf-000-00001-06-implementation,ocds-213czf-000-00001-contract-01,1.0,45233162-2,CPV,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html
