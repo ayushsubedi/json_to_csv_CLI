@@ -1,0 +1,4 @@
+ocid,Release ID,Tender:Tender ID,Tender:Items to be procured:ID,Tender:Items to be procured:Additional classifications:Scheme,Tender:Items to be procured:Additional classifications:ID,Tender:Items to be procured:Additional classifications:Description,Tender:Items to be procured:Additional classifications:URI,Open Contracting ID
+,ocds-213czf-000-00001-01-planning,ocds-213czf-000-00001-01-planning,1.0,CPV,45233162-2,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html,ocds-213czf-000-00001
+,ocds-213czf-000-00001-02-tender,ocds-213czf-000-00001-01-tender,1.0,CPV,45233162-2,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html,ocds-213czf-000-00001
+,ocds-213czf-000-00001-03-tenderAmendment,ocds-213czf-000-00001-01-tender,1.0,CPV,45233162-2,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html,ocds-213czf-000-00001
