@@ -1,4 +1,4 @@
-ocid,id,tender/id,tender/items/0/id,tender/items/0/additionalClassifications/0/id,tender/items/0/additionalClassifications/0/scheme,tender/items/0/additionalClassifications/0/description,tender/items/0/additionalClassifications/0/uri
-ocds-213czf-000-00001,ocds-213czf-000-00001-01-planning,ocds-213czf-000-00001-01-planning,1.0,45233162-2,CPV,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html
-ocds-213czf-000-00001,ocds-213czf-000-00001-02-tender,ocds-213czf-000-00001-01-tender,1.0,45233162-2,CPV,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html
-ocds-213czf-000-00001,ocds-213czf-000-00001-03-tenderAmendment,ocds-213czf-000-00001-01-tender,1.0,45233162-2,CPV,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html
+id,tender/id,tender/items/0/id,tender/items/0/additionalClassifications/0/id,tender/items/0/additionalClassifications/0/scheme,tender/items/0/additionalClassifications/0/description,tender/items/0/additionalClassifications/0/uri
+ocds-213czf-000-00001-01-planning,ocds-213czf-000-00001-01-planning,1.0,45233162-2,CPV,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html
+ocds-213czf-000-00001-02-tender,ocds-213czf-000-00001-01-tender,1.0,45233162-2,CPV,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html
+ocds-213czf-000-00001-03-tenderAmendment,ocds-213czf-000-00001-01-tender,1.0,45233162-2,CPV,Cycle path construction work,http://cpv.data.ac.uk/code-45233162.html
